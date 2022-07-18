@@ -20,16 +20,17 @@
 ### Languages, Tools, and Skills 🛠
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=black" alt="aws" />
-  <img src="https://img.shields.io/badge/Airflow-61DAFB?style=for-the-badge&logo=airflow&logoColor=black" alt="airflow" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
-  <img src="https://img.shields.io/badge/Spark-0769AD?style=for-the-badge&logo=spark&logoColor=white" alt="spark" />
-  <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/NoSQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="nosql" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/Airflow-61DAFB?style=for-the-badge&logo=airflow&logoColor=white" alt="airflow" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
+  <img src="https://img.shields.io/badge/Spark-E4682?style=for-the-badge&logo=spark&logoColor=white" alt="spark" />
+  <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/NoSQL-0066FF?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="nosql" />
+  <img src="https://img.shields.io/badge/Databricks-407AFC?style=for-the-badge&logo=databricks&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/dbt-407AFC?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/Docker-F05032?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-F05032?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
 </div>
 
 ### GitHub Stats 📈
