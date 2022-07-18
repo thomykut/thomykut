@@ -1,9 +1,14 @@
-Thomas Kuthnik
-Senior Data Engineer at TrueNorth
-Information Systems Engineering at UTN-FRBA
+## Thomas Kuthnik
+* :us: Senior Data Engineer at TrueNorth
+* :argentina: Information Systems Engineering at UTN-FRBA
+
 [Portfolio]([https://link-url-here.org](https://thomaskuthnik.herokuapp.com/))
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomykut)](https://github.com/anuraghazra/github-readme-stats)
+
+<img alt="thomykut stats" src="https://github-readme-stats.vercel.app/api?username=thomykut&show_icons=true&theme=gotham" style="vertical-align:middle"> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoenr&hide=javascript,css,scss,html,java,tsql&theme=tokyonight)
 
 <!--
 **thomykut/thomykut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
