@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
 </div>
-
+<!---
 ### GitHub Stats 📈
 <div align="center">
   <table width="100%">
@@ -59,8 +59,7 @@
     </tbody>
   <table>
 <div>
-
----
+-->
 
 <div align='center'>
 
