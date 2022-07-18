@@ -17,12 +17,12 @@
 </a>
 </div>
 
-### Languages, Tools, and Skills 🛠
+### Main Skills 🛠
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
   <img src="https://img.shields.io/badge/Airflow-61DAFB?style=for-the-badge&logo=airflow&logoColor=white" alt="airflow" />
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
   <img src="https://img.shields.io/badge/Spark-E4682?style=for-the-badge&logo=spark&logoColor=white" alt="spark" />
   <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
   <img src="https://img.shields.io/badge/NoSQL-0066FF?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="nosql" />
