@@ -24,9 +24,10 @@
   <img src="https://img.shields.io/badge/Airflow-61DAFB?style=for-the-badge&logo=airflow&logoColor=white" alt="airflow" />
   <img src="https://img.shields.io/badge/Databricks-EF3E2B?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="linux" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
   <img src="https://img.shields.io/badge/dbt-FF6B4D?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
   <img src="https://img.shields.io/badge/NoSQL-0066FF?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="nosql" />
   <img src="https://img.shields.io/badge/Spark-E4682?style=for-the-badge&logo=spark&logoColor=white" alt="spark" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
