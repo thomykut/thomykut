@@ -1,4 +1,8 @@
-### Hi there 👋
+Thomas Kuthnik
+Senior Data Engineer at TrueNorth
+Information Systems Engineering at UTN-FRBA
+[Portfolio]([https://link-url-here.org](https://thomaskuthnik.herokuapp.com/))
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomykut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
