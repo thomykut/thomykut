@@ -1,7 +1,8 @@
+<!---
 ## Thomas Kuthnik
 * Senior Data Engineer at TrueNorth for Unison :us:
 * Information Systems Engineering at UTN-FRBA :argentina:
-
+-->
 <img src="./banner.jpg" alt="name banner" />
 
 ### About Me
