@@ -8,7 +8,7 @@
 ### About Me
 
 <div align="center">
-<a href="https://thomaskuthnik.herokuapp.com/">
+<a href="https://thomykut.github.io/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/thomas-kuthnik/">
