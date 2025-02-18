@@ -21,13 +21,13 @@
 ### Main Skills 🛠
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
-  <img src="https://img.shields.io/badge/Airflow-61DAFB?style=for-the-badge&logo=airflow&logoColor=white" alt="airflow" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/Airflow-61DAFB?style=for-the-badge&logo=apache-airflow&logoColor=black" alt="airflow" />
   <img src="https://img.shields.io/badge/Databricks-EF3E2B?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
   <img src="https://img.shields.io/badge/dbt-FF6B4D?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
   <img src="https://img.shields.io/badge/NoSQL-0066FF?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="nosql" />
-  <img src="https://img.shields.io/badge/Spark-E4682?style=for-the-badge&logo=spark&logoColor=white" alt="spark" />
+  <img src="https://img.shields.io/badge/Spark-E4682?style=for-the-badge&logo=apache-spark&logoColor=white" alt="spark" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/Kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
